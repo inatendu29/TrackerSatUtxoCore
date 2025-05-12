@@ -1,0 +1,21 @@
+log_level = "info" # "error", "warn", "info", "debug", "trace"
+network = "bitcoin" # "bitcoin", "testnet", "signet", "regtest"
+
+# Path
+bitcoin_data_dir = "E:/bitcoin/blocks" 
+db_base_path = "./TrackerSatUtxoCoreDB" # Nom du répertoire de base pour les DB RocksDB
+rpc_only_catchup = false
+
+# Configuration RPC Bitcoin Core
+rpc_url = "http://127.0.0.1:8332"
+rpc_user = "user"
+rpc_pass = "password"
+
+# Configuration ZMQ
+zmq_url = "tcp://127.0.0.1:28332"
+
+# Configuration RocksDB
+[rocksdb]
+write_buffer_size_mb = 512
+max_background_jobs = 4
+cache_size_gb = 16
