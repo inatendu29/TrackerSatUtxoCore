@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["@Inatendu29 From Wolf Epic Club"]
 edition = "2021"
 description = "A Bitcoin blockchain indexer to analyze transactions, UTXOs, Satoshi and support Ordinals."
-repository = "https://github.com/VOTRE_UTILISATEUR/VOTRE_REPO"
+repository = "https://github.com/inatendu29/TrackerSatUtxoCore.git"
 license = "MIT"
 readme = "README.md"
 

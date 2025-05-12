@@ -42,7 +42,7 @@ The goal of this tool is to provide a structured database, enabling developers t
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_PROJECT_NAME.git](https://github.com/YOUR_USERNAME/YOUR_PROJECT_NAME.git)
+    git clone https://github.com/inatendu29/TrackerSatUtxoCore.git
     cd YOUR_PROJECT_NAME
     ```
 
@@ -173,7 +173,7 @@ Cloner le dépôt :
 
 Bash
 
-git clone [https://github.com/VOTRE_UTILISATEUR_GITHUB/NOM_DE_VOTRE_PROJET.git](https://github.com/VOTRE_UTILISATEUR_GITHUB/NOM_DE_VOTRE_PROJET.git)
+git clone https://github.com/inatendu29/TrackerSatUtxoCore.git
 cd NOM_DE_VOTRE_PROJET
 Configurer Bitcoin Core :
 Assurez-vous que votre fichier bitcoin.conf (généralement dans le répertoire de données de Bitcoin) contient des lignes similaires à :
